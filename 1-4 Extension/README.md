@@ -1,10 +1,10 @@
-# Module 01 Mini-Project: Landing Page
+# Extension 1-4: Landing Page
 
-In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
+In this extension-challenge, you will build a landing page using HTML and CSS.
 
 ## Instructions
 
-Work in your group to implement the following user stories:
+Implement the following user stories:
 
 * As a client, I want to view a single webpage that collects a visitor's contact information.
 
@@ -78,6 +78,8 @@ Refer to the documentation:
 
 * [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
 
+* [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
+
 ## 🏆 Bonus
 
 If you have completed this activity, work through the following challenge with your group to further your knowledge:
@@ -87,5 +89,3 @@ If you have completed this activity, work through the following challenge with y
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
